@@ -9,7 +9,7 @@ Source0:	http://xorg.freedesktop.org/releases/individual/app/iceauth-%{version}.
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
-BuildRequires:	pkgconfig
+BuildRequires:	pkg-config
 BuildRequires:	xorg-libICE-devel
 BuildRequires:	xorg-proto
 BuildRequires:	xorg-util-macros
