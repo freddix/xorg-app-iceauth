@@ -1,11 +1,11 @@
 Summary:	iceauth application
 Name:		xorg-app-iceauth
-Version:	1.0.5
+Version:	1.0.6
 Release:	1
 License:	MIT
 Group:		X11/Application
 Source0:	http://xorg.freedesktop.org/releases/individual/app/iceauth-%{version}.tar.bz2
-# Source0-md5:	08e3f6b523da8b0af179f22f339508b2
+# Source0-md5:	2527344acc60741a709f4858564c5ae6
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
